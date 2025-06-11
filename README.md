@@ -29,19 +29,6 @@ This project implements an AI-driven engine to analyze customer sentiment in Man
 ├── README.md
 \`\`\`
 
-## 🛠️ How to Run
-
-### 1. Run the Feedback Engine
-\`\`\`bash
-cd src/
-python3 Sentiment_Analysis.HuggingFace.py
-\`\`\`
-
-### 2. Run the Streamlit Dashboard
-\`\`\`bash
-cd dashboard/
-streamlit run Enhanced_Streamlit_dashboard.py
-\`\`\`
 
 ## 📦 Dependencies
 
