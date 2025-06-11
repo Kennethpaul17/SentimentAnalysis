@@ -16,6 +16,7 @@ This project implements an NLP-powered engine to analyze customer sentiment in M
 
 ## How to Run Transformers Model and the Reporting Tool StreamLit
 
+cd /Users/kennethpaul17/feedback_engine
 ```bash
 python3 Sentiment_Analysis.HuggingFace.py
 streamlit run Enhanced_Streamlit_dashboard.py
