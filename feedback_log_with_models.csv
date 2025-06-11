@@ -1,0 +1,254 @@
+Timestamp,Combined Input,Sentiment,Severity Score,Category,Category Confidence,JIRA_Ticket,Model
+2025-04-12T16:24:12.072019,,NEGATIVE,0.0,Geographical,0.7798,SCRUM-18,LLaMA2
+2025-04-12T16:24:12.072019,,NEUTRAL,0.0,Geographical,0.6238400000000001,SCRUM-18,HuggingFace
+2025-04-12T17:33:40.131817,,NEUTRAL,0.0,Database,0.6593600000000001,SCRUM-19,HuggingFace
+2025-04-12T17:33:40.131817,,NEGATIVE,0.0,Database,0.8242,SCRUM-19,LLaMA2
+2025-04-12T17:33:40.471983,,NEUTRAL,0.0,Application,0.74288,,HuggingFace
+2025-04-12T17:33:40.471983,,POSITIVE,0.0,Application,0.9286,,LLaMA2
+2025-04-12T17:33:41.710754,,NEGATIVE,0.0,Geographical,0.4704,SCRUM-20,LLaMA2
+2025-04-12T17:33:41.710754,,NEUTRAL,0.0,Geographical,0.37632,SCRUM-20,HuggingFace
+2025-04-12T17:33:43.804162,,NEGATIVE,0.0,Infrastructure,0.9448,SCRUM-21,LLaMA2
+2025-04-12T17:33:43.804162,,NEUTRAL,0.0,Infrastructure,0.7558400000000001,SCRUM-21,HuggingFace
+2025-04-12T17:33:45.392967,,NEUTRAL,0.0,Application,0.27599999999999997,SCRUM-22,HuggingFace
+2025-04-12T17:33:45.392967,,NEGATIVE,0.0,Application,0.345,SCRUM-22,LLaMA2
+2025-04-12T17:33:47.014329,,NEGATIVE,0.0,Geographical,0.4228,SCRUM-23,LLaMA2
+2025-04-12T17:33:47.014329,,NEUTRAL,0.0,Geographical,0.33824000000000004,SCRUM-23,HuggingFace
+2025-04-12T17:33:48.706741,,NEUTRAL,0.0,Application,0.24087999999999998,SCRUM-24,HuggingFace
+2025-04-12T17:33:48.706741,,NEGATIVE,0.0,Application,0.3011,SCRUM-24,LLaMA2
+2025-04-12T17:33:50.415698,,NEUTRAL,0.0,Application,0.55192,SCRUM-25,HuggingFace
+2025-04-12T17:33:50.415698,,NEGATIVE,0.0,Application,0.6899,SCRUM-25,LLaMA2
+2025-04-12T17:33:51.881850,,NEGATIVE,0.0,Application,0.3189,SCRUM-26,LLaMA2
+2025-04-12T17:33:51.881850,,NEUTRAL,0.0,Application,0.25512,SCRUM-26,HuggingFace
+2025-04-12T17:33:53.242179,,NEGATIVE,0.0,Geographical,0.7798,SCRUM-27,LLaMA2
+2025-04-12T17:33:53.242179,,NEUTRAL,0.0,Geographical,0.6238400000000001,SCRUM-27,HuggingFace
+2025-04-12T17:39:20.386320,,NEUTRAL,0.0,Application,0.32048000000000004,SCRUM-28,HuggingFace
+2025-04-12T17:39:20.386320,,NEGATIVE,0.0,Application,0.4006,SCRUM-28,LLaMA2
+2025-04-12T17:42:03.049235,,NEUTRAL,0.0,Geographical,0.24888,,HuggingFace
+2025-04-12T17:42:03.049235,,POSITIVE,0.0,Geographical,0.3111,,LLaMA2
+2025-04-12T17:42:47.647869,,NEUTRAL,0.0,Application,0.28752,,HuggingFace
+2025-04-12T17:42:47.647869,,POSITIVE,0.0,Application,0.3594,,LLaMA2
+2025-04-12T17:44:25.292354,,NEGATIVE,0.0,Application,0.3221,SCRUM-29,LLaMA2
+2025-04-12T17:44:25.292354,,NEUTRAL,0.0,Application,0.25768,SCRUM-29,HuggingFace
+2025-04-12T17:44:45.285587,,NEGATIVE,0.0,Geographical,0.3438,SCRUM-30,LLaMA2
+2025-04-12T17:44:45.285587,,NEUTRAL,0.0,Geographical,0.27504,SCRUM-30,HuggingFace
+2025-04-12T17:45:00.855508,,NEUTRAL,0.0,Application,0.24472000000000002,SCRUM-31,HuggingFace
+2025-04-12T17:45:00.855508,,NEGATIVE,0.0,Application,0.3059,SCRUM-31,LLaMA2
+2025-04-12T17:45:15.309886,,NEGATIVE,0.0,Geographical,0.7519,SCRUM-32,LLaMA2
+2025-04-12T17:45:15.309886,,NEUTRAL,0.0,Geographical,0.60152,SCRUM-32,HuggingFace
+2025-04-12T17:45:26.553348,,POSITIVE,0.0,Application,0.3474,,LLaMA2
+2025-04-12T17:45:26.553348,,NEUTRAL,0.0,Application,0.27792,,HuggingFace
+2025-04-12T17:45:31.040614,,NEGATIVE,0.0,Geographical,0.3413,SCRUM-33,LLaMA2
+2025-04-12T17:45:31.040614,,NEUTRAL,0.0,Geographical,0.27304,SCRUM-33,HuggingFace
+2025-04-12T17:45:38.667705,,NEGATIVE,0.0,Application,0.3697,SCRUM-34,LLaMA2
+2025-04-12T17:45:38.667705,,NEUTRAL,0.0,Application,0.29575999999999997,SCRUM-34,HuggingFace
+2025-04-12T17:45:48.035647,,NEGATIVE,0.0,Application,0.3267,SCRUM-35,LLaMA2
+2025-04-12T17:45:48.035647,,NEUTRAL,0.0,Application,0.26136,SCRUM-35,HuggingFace
+2025-04-12T17:47:09.338396,,POSITIVE,0.0,Application,0.3482,,LLaMA2
+2025-04-12T17:47:09.338396,,NEUTRAL,0.0,Application,0.27856000000000003,,HuggingFace
+2025-04-12T17:47:41.982487,,NEGATIVE,0.0,Application,0.357,SCRUM-36,LLaMA2
+2025-04-12T17:47:41.982487,,NEUTRAL,0.0,Application,0.2856,SCRUM-36,HuggingFace
+2025-04-12T17:48:16.737469,,NEGATIVE,0.0,Application,0.3151,SCRUM-37,LLaMA2
+2025-04-12T17:48:16.737469,,NEUTRAL,0.0,Application,0.25208,SCRUM-37,HuggingFace
+2025-04-12T18:00:57.564815,,NEUTRAL,0.0,Geographical,0.25264000000000003,,HuggingFace
+2025-04-12T18:00:57.564815,,POSITIVE,0.0,Geographical,0.3158,,LLaMA2
+2025-04-12T18:01:06.821852,,NEGATIVE,0.0,Application,0.3666,SCRUM-38,LLaMA2
+2025-04-12T18:01:06.821852,,NEUTRAL,0.0,Application,0.29328,SCRUM-38,HuggingFace
+2025-04-12T18:01:18.550826,,NEUTRAL,0.0,Geographical,0.2768,,HuggingFace
+2025-04-12T18:01:18.550826,,POSITIVE,0.0,Geographical,0.346,,LLaMA2
+2025-04-12T18:01:24.009787,,NEUTRAL,0.0,Geographical,0.27936,SCRUM-39,HuggingFace
+2025-04-12T18:01:24.009787,,NEGATIVE,0.0,Geographical,0.3492,SCRUM-39,LLaMA2
+2025-04-12T18:03:57.400234,,NEUTRAL,0.0,Geographical,0.53504,SCRUM-40,HuggingFace
+2025-04-12T18:03:57.400234,,NEGATIVE,0.0,Geographical,0.6688,SCRUM-40,LLaMA2
+2025-04-12T18:04:07.246665,,NEGATIVE,0.0,Application,0.3639,SCRUM-41,LLaMA2
+2025-04-12T18:04:07.246665,,NEUTRAL,0.0,Application,0.29112,SCRUM-41,HuggingFace
+2025-04-12T18:04:11.707277,,NEUTRAL,0.0,Application,0.2908,,HuggingFace
+2025-04-12T18:04:11.707277,,POSITIVE,0.0,Application,0.3635,,LLaMA2
+2025-04-12T18:04:16.588614,,NEUTRAL,0.0,Geographical,0.26520000000000005,SCRUM-42,HuggingFace
+2025-04-12T18:04:16.588614,,NEGATIVE,0.0,Geographical,0.3315,SCRUM-42,LLaMA2
+2025-04-12T18:04:31.158108,,NEUTRAL,0.0,Application,0.33552000000000004,SCRUM-43,HuggingFace
+2025-04-12T18:04:31.158108,,NEGATIVE,0.0,Application,0.4194,SCRUM-43,LLaMA2
+2025-04-12T18:26:56.625100,,NEUTRAL,0.0,Geographical,0.29648,,HuggingFace
+2025-04-12T18:26:56.625100,,POSITIVE,0.0,Geographical,0.3706,,LLaMA2
+2025-04-12T18:27:03.310079,,NEGATIVE,0.0,Geographical,0.3676,SCRUM-44,LLaMA2
+2025-04-12T18:27:03.310079,,NEUTRAL,0.0,Geographical,0.29408,SCRUM-44,HuggingFace
+2025-04-12T18:28:45.194719,,NEGATIVE,0.0,Geographical,0.3342,SCRUM-45,LLaMA2
+2025-04-12T18:28:45.194719,,NEUTRAL,0.0,Geographical,0.26736,SCRUM-45,HuggingFace
+2025-04-12T18:31:01.547190,,NEUTRAL,0.0,Application,0.27080000000000004,SCRUM-46,HuggingFace
+2025-04-12T18:31:01.547190,,NEGATIVE,0.0,Application,0.3385,SCRUM-46,LLaMA2
+2025-04-12T18:32:04.689401,,POSITIVE,0.0,Application,0.4695,,LLaMA2
+2025-04-12T18:32:04.689401,,NEUTRAL,0.0,Application,0.3756,,HuggingFace
+2025-04-12T18:32:09.009961,,POSITIVE,0.0,Application,0.4563,,LLaMA2
+2025-04-12T18:32:09.009961,,NEUTRAL,0.0,Application,0.36504000000000003,,HuggingFace
+2025-04-12T18:32:17.322146,,NEGATIVE,0.0,Geographical,0.4449,SCRUM-47,LLaMA2
+2025-04-12T18:32:17.322146,,NEUTRAL,0.0,Geographical,0.35592,SCRUM-47,HuggingFace
+2025-04-12T18:32:23.660545,,POSITIVE,0.0,Application,0.4212,,LLaMA2
+2025-04-12T18:32:23.660545,,NEUTRAL,0.0,Application,0.33696000000000004,,HuggingFace
+2025-04-12T18:32:35.105891,,NEUTRAL,0.0,Geographical,0.3332,,HuggingFace
+2025-04-12T18:32:35.105891,,POSITIVE,0.0,Geographical,0.4165,,LLaMA2
+2025-04-12T18:32:43.994169,,NEUTRAL,0.0,Application,0.26408000000000004,SCRUM-48,HuggingFace
+2025-04-12T18:32:43.994169,,NEGATIVE,0.0,Application,0.3301,SCRUM-48,LLaMA2
+2025-04-12T18:32:55.070457,,NEGATIVE,0.0,Application,0.3338,SCRUM-49,LLaMA2
+2025-04-12T18:32:55.070457,,NEUTRAL,0.0,Application,0.26704,SCRUM-49,HuggingFace
+2025-04-12T18:35:18.434956,,NEUTRAL,0.0,Infrastructure,0.35792,SCRUM-50,HuggingFace
+2025-04-12T18:35:18.434956,,NEGATIVE,0.0,Infrastructure,0.4474,SCRUM-50,LLaMA2
+2025-04-12T18:36:28.288086,,NEUTRAL,0.0,Application,0.25768,SCRUM-51,HuggingFace
+2025-04-12T18:36:28.288086,,NEGATIVE,0.0,Application,0.3221,SCRUM-51,LLaMA2
+2025-04-12T18:36:39.945996,,NEUTRAL,0.0,Geographical,0.27768000000000004,SCRUM-52,HuggingFace
+2025-04-12T18:36:39.945996,,NEGATIVE,0.0,Geographical,0.3471,SCRUM-52,LLaMA2
+2025-04-12T18:36:59.388792,,NEUTRAL,0.0,Application,0.258,,HuggingFace
+2025-04-12T18:36:59.388792,,POSITIVE,0.0,Application,0.3225,,LLaMA2
+2025-04-12T20:47:23.969059,,NEUTRAL,0.0,Application,0.27968000000000004,,HuggingFace
+2025-04-12T20:47:23.969059,,POSITIVE,0.0,Application,0.3496,,LLaMA2
+2025-04-12T20:47:27.927087,,POSITIVE,0.0,Geographical,0.402,,LLaMA2
+2025-04-12T20:47:27.927087,,NEUTRAL,0.0,Geographical,0.32160000000000005,,HuggingFace
+2025-04-12T20:47:36.548065,,NEUTRAL,0.0,Application,0.26096,SCRUM-53,HuggingFace
+2025-04-12T20:47:36.548065,,NEGATIVE,0.0,Application,0.3262,SCRUM-53,LLaMA2
+2025-04-12T20:47:51.871341,,POSITIVE,0.0,Geographical,0.6275,,LLaMA2
+2025-04-12T20:47:51.871341,,NEUTRAL,0.0,Geographical,0.502,,HuggingFace
+2025-04-12T20:47:59.924250,,POSITIVE,0.0,Geographical,0.5237,,LLaMA2
+2025-04-12T20:47:59.924250,,NEUTRAL,0.0,Geographical,0.41896000000000005,,HuggingFace
+2025-04-12T20:49:06.822571,,POSITIVE,0.0,Geographical,0.55,,LLaMA2
+2025-04-12T20:49:06.822571,,NEUTRAL,0.0,Geographical,0.44000000000000006,,HuggingFace
+2025-04-12T20:49:12.408657,,NEUTRAL,0.0,Application,0.31392000000000003,,HuggingFace
+2025-04-12T20:49:12.408657,,POSITIVE,0.0,Application,0.3924,,LLaMA2
+2025-04-12T20:49:19.428984,,NEGATIVE,0.0,Application,0.3608,SCRUM-54,LLaMA2
+2025-04-12T20:49:19.428984,,NEUTRAL,0.0,Application,0.28864,SCRUM-54,HuggingFace
+2025-04-12T21:25:48.964567,,NEGATIVE,0.0,Database,0.7076,SCRUM-55,LLaMA2
+2025-04-12T21:25:48.964567,,NEUTRAL,0.0,Database,0.56608,SCRUM-55,HuggingFace
+2025-04-12T21:28:43.209608,,NEGATIVE,0.0,Database,0.7076,SCRUM-56,LLaMA2
+2025-04-12T21:28:43.209608,,NEUTRAL,0.0,Database,0.56608,SCRUM-56,HuggingFace
+2025-04-12T21:30:43.029011,,POSITIVE,0.0,Infrastructure,0.5647,,LLaMA2
+2025-04-12T21:30:43.029011,,NEUTRAL,0.0,Infrastructure,0.45176,,HuggingFace
+2025-04-12T21:31:06.885513,,NEGATIVE,0.0,Application,0.3533,SCRUM-57,LLaMA2
+2025-04-12T21:31:06.885513,,NEUTRAL,0.0,Application,0.28264,SCRUM-57,HuggingFace
+2025-04-12T21:32:49.930486,,POSITIVE,0.0,Application,0.3405,,LLaMA2
+2025-04-12T21:32:49.930486,,NEUTRAL,0.0,Application,0.27240000000000003,,HuggingFace
+2025-04-12T21:33:17.067445,,NEGATIVE,0.0,Infrastructure,0.4746,SCRUM-58,LLaMA2
+2025-04-12T21:33:17.067445,,NEUTRAL,0.0,Infrastructure,0.37968,SCRUM-58,HuggingFace
+2025-04-12T21:36:36.654853,,NEGATIVE,0.0,Application,0.3533,SCRUM-59,LLaMA2
+2025-04-12T21:36:36.654853,,NEUTRAL,0.0,Application,0.28264,SCRUM-59,HuggingFace
+2025-04-12T21:38:27.495509,,NEUTRAL,0.0,Geographical,0.31448000000000004,,HuggingFace
+2025-04-12T21:38:27.495509,,POSITIVE,0.0,Geographical,0.3931,,LLaMA2
+2025-04-12T21:40:26.365121,,NEUTRAL,0.0,Application,0.3396,SCRUM-60,HuggingFace
+2025-04-12T21:40:26.365121,,NEGATIVE,0.0,Application,0.4245,SCRUM-60,LLaMA2
+2025-04-12T21:51:13.189862,,NEGATIVE,0.0,Database,0.5531,SCRUM-61,LLaMA2
+2025-04-12T21:51:13.189862,,NEUTRAL,0.0,Database,0.44248000000000004,SCRUM-61,HuggingFace
+2025-04-13T14:48:02.537310,,NEGATIVE,0.0,Geographical,0.6074,SCRUM-62,LLaMA2
+2025-04-13T14:48:02.537310,,NEUTRAL,0.0,Geographical,0.4859200000000001,SCRUM-62,HuggingFace
+2025-04-13T14:49:00.780366,,NEGATIVE,0.0,Geographical,0.3718,SCRUM-63,LLaMA2
+2025-04-13T14:49:00.780366,,NEUTRAL,0.0,Geographical,0.29744000000000004,SCRUM-63,HuggingFace
+2025-04-13T15:32:00.403182,,NEUTRAL,0.0,Geographical,0.32752000000000003,,HuggingFace
+2025-04-13T15:32:00.403182,,NEUTRAL,0.0,Geographical,0.4094,,LLaMA2
+2025-04-13T15:32:49.952493,,NEGATIVE,0.0,Database,0.6926,SCRUM-64,LLaMA2
+2025-04-13T15:32:49.952493,,NEUTRAL,0.0,Database,0.55408,SCRUM-64,HuggingFace
+2025-04-13T16:02:37.479182,,NEUTRAL,0.0,Geographical,0.34928000000000003,,HuggingFace
+2025-04-13T16:02:37.479182,,POSITIVE,0.0,Geographical,0.4366,,LLaMA2
+2025-04-13T16:05:18.827501,,NEGATIVE,0.0,Geographical,0.3681,SCRUM-65,LLaMA2
+2025-04-13T16:05:18.827501,,NEUTRAL,0.0,Geographical,0.29448,SCRUM-65,HuggingFace
+2025-04-13T16:08:13.788208,,NEUTRAL,0.0,Geographical,0.28544,,HuggingFace
+2025-04-13T16:08:13.788208,,POSITIVE,0.0,Geographical,0.3568,,LLaMA2
+2025-04-13T16:09:54.369925,,NEUTRAL,0.0,Geographical,0.3473,,LLaMA2
+2025-04-13T16:09:54.369925,,NEUTRAL,0.0,Geographical,0.27784000000000003,,HuggingFace
+2025-04-13T16:12:44.130202,,NEUTRAL,0.0,Geographical,0.29376,SCRUM-66,HuggingFace
+2025-04-13T16:12:44.130202,,NEGATIVE,0.0,Geographical,0.3672,SCRUM-66,LLaMA2
+2025-04-14T21:20:44.539143,,NEUTRAL,0.0,Geographical,0.34448,,HuggingFace
+2025-04-14T21:20:44.539143,,POSITIVE,0.0,Geographical,0.4306,,LLaMA2
+2025-04-14T21:26:15.458220,,NEUTRAL,0.0,Geographical,0.29232,,HuggingFace
+2025-04-14T21:26:15.458220,,POSITIVE,0.0,Geographical,0.3654,,LLaMA2
+2025-04-14T21:27:25.526122,,NEGATIVE,0.0,Geographical,0.5571,SCRUM-67,LLaMA2
+2025-04-14T21:27:25.526122,,NEUTRAL,0.0,Geographical,0.4456800000000001,SCRUM-67,HuggingFace
+2025-04-14T21:33:02.564089,,NEUTRAL,0.0,Database,0.49576000000000003,,HuggingFace
+2025-04-14T21:33:02.564089,,POSITIVE,0.0,Database,0.6197,,LLaMA2
+2025-04-14T21:33:13.288627,,NEUTRAL,0.0,Database,0.52456,SCRUM-68,HuggingFace
+2025-04-14T21:33:13.288627,,NEGATIVE,0.0,Database,0.6557,SCRUM-68,LLaMA2
+2025-04-14T21:41:18.578914,,NEUTRAL,0.0,Database,0.39816,SCRUM-69,HuggingFace
+2025-04-14T21:41:18.578914,,NEGATIVE,0.0,Database,0.4977,SCRUM-69,LLaMA2
+2025-04-14T21:49:26.720898,,NEGATIVE,0.0,Database,0.6557,SCRUM-70,LLaMA2
+2025-04-14T21:49:26.720898,,NEUTRAL,0.0,Database,0.52456,SCRUM-70,HuggingFace
+2025-04-14T21:51:05.545584,,NEUTRAL,0.0,Application,0.56152,,HuggingFace
+2025-04-14T21:51:05.545584,,POSITIVE,0.0,Application,0.7019,,LLaMA2
+2025-04-14T21:52:00.710913,,NEUTRAL,0.0,Database,0.68952,SCRUM-71,HuggingFace
+2025-04-14T21:52:00.710913,,NEGATIVE,0.0,Database,0.8619,SCRUM-71,LLaMA2
+2025-04-17T12:49:15.501861,,NEUTRAL,0.0,Application,0.36160000000000003,,HuggingFace
+2025-04-17T12:49:15.501861,,NEUTRAL,0.0,Application,0.452,,LLaMA2
+2025-04-17T12:49:41.915086,,NEUTRAL,0.0,Database,0.3272,SCRUM-72,HuggingFace
+2025-04-17T12:49:41.915086,,NEGATIVE,0.0,Database,0.409,SCRUM-72,LLaMA2
+2025-04-17T12:49:47.687535,,NEUTRAL,0.0,Application,0.35152000000000005,,HuggingFace
+2025-04-17T12:49:47.687535,,NEUTRAL,0.0,Application,0.4394,,LLaMA2
+2025-04-17T13:39:43.747076,,NEUTRAL,0.0,Application,0.35152000000000005,,HuggingFace
+2025-04-17T13:39:43.747076,,NEUTRAL,0.0,Application,0.4394,,LLaMA2
+2025-04-17T13:40:42.467303,,NEUTRAL,0.0,Application,0.54072,,HuggingFace
+2025-04-17T13:40:42.467303,,NEUTRAL,0.0,Application,0.6759,,LLaMA2
+2025-04-17T13:41:09.057001,,NEUTRAL,0.0,Application,0.7218,,LLaMA2
+2025-04-17T13:41:09.057001,,NEUTRAL,0.0,Application,0.5774400000000001,,HuggingFace
+2025-04-17T16:47:47.259212,,NEUTRAL,0.0,Application,0.8,SCRUM-74,HuggingFace
+2025-04-17T16:47:47.259212,,NEGATIVE,0.0,Application,1.0,SCRUM-74,LLaMA2
+2025-04-17T16:49:34.617053,,NEUTRAL,0.0,Application,0.7200000000000001,SCRUM-75,HuggingFace
+2025-04-17T16:49:34.617053,,NEGATIVE,0.0,Application,0.9,SCRUM-75,LLaMA2
+2025-04-17T17:05:49.478320,,NEUTRAL,0.0,Application,0.55184,,HuggingFace
+2025-04-17T17:05:49.478320,,NEUTRAL,0.0,Application,0.6898,,LLaMA2
+2025-04-17T17:42:51.685262,"
+    Customer Rating: 5/5
+    Customer Feedback: Post-upgrade, support offered training sessions. They were responsive to our queries. The new features were well-explained. The transition was smooth.
+    Communication Summary: Post-upgrade, support offered training sessions. They were responsive to our queries. The new features were well-explained. The transition was smooth.
+    ",NEUTRAL,0.000225,Infrastructure,0.29984000000000005,,HuggingFace
+2025-04-17T17:42:51.685262,"
+    Customer Rating: 5/5
+    Customer Feedback: Post-upgrade, support offered training sessions. They were responsive to our queries. The new features were well-explained. The transition was smooth.
+    Communication Summary: Post-upgrade, support offered training sessions. They were responsive to our queries. The new features were well-explained. The transition was smooth.
+    ",POSITIVE,0.0003,Infrastructure,0.3748,,LLaMA2
+2025-04-17T17:43:25.397324,"
+    Customer Rating: 2/5
+    Customer Feedback: The recent network reconfiguration led to intermittent connectivity issues. A rollback was necessary.
+    Communication Summary: Post-reconfiguration, users reported connectivity drops. Support attempted fixes, but issues persisted. A rollback was initiated, restoring stability. Future changes should be better tested
+    ",NEGATIVE,0.8477,Infrastructure,0.5358,SCRUM-76,LLaMA2
+2025-04-17T17:43:25.397324,"
+    Customer Rating: 2/5
+    Customer Feedback: The recent network reconfiguration led to intermittent connectivity issues. A rollback was necessary.
+    Communication Summary: Post-reconfiguration, users reported connectivity drops. Support attempted fixes, but issues persisted. A rollback was initiated, restoring stability. Future changes should be better tested
+    ",NEUTRAL,0.635775,Infrastructure,0.4286400000000001,SCRUM-76,HuggingFace
+2025-04-28T14:25:58.784205,"
+    Customer Rating: 1/5
+    Customer Feedback: bad
+    Communication Summary: bad
+    ",NEGATIVE,0.9999,Database,0.6557,SCRUM-79
+2025-04-28T14:30:56.693794,"
+    Customer Rating: 5/5
+    Customer Feedback: The application layer optimization post-upgrade has significantly improved our transaction speeds. Excellent work!
+    Communication Summary: Following the upgrade, we noticed enhanced performance. The support team provided detailed documentation. They also offered a walkthrough of the new features. Overall, the communication was clear and helpful.
+    ",POSITIVE,0.0001,Application,0.7019,N/A
+2025-04-28T14:31:28.484209,"
+    Customer Rating: 2/5
+    Customer Feedback: The database backup failed during the scheduled window, risking data integrity. Backup procedures need a thorough review.
+    Communication Summary: We noticed the backup failure during our routine checks. Support was notified and took several hours to respond. They identified a scheduling conflict. Measures have been taken to prevent recurrence.
+    ",NEGATIVE,0.8492,Database,0.8628,SCRUM-80
+2025-05-06T12:41:59.378997,"
+    Customer Rating: 5/5
+    Customer Feedback: The application layer optimization post-upgrade has significantly improved our transaction speeds. Excellent work!
+    Communication Summary: Following the upgrade, we noticed enhanced performance. The support team provided detailed documentation. They also offered a walkthrough of the new features. Overall, the communication was clear and helpful.
+    ",POSITIVE,0.0001,Application,0.7019,N/A
+2025-05-06T12:43:34.278820,"
+    Customer Rating: 1/5
+    Customer Feedback: Post the recent patch, our firewall configurations were altered, exposing us to potential threats. This oversight is unacceptable.
+    Communication Summary: Immediately after the patch, we detected unauthorized access attempts. We contacted support, who initially denied any changes. After persistent follow-ups and evidence submission, they acknowledged the misconfiguration and rectified it.
+    ",NEGATIVE,0.9948,Infrastructure,0.4976,SCRUM-81
+2025-06-11T16:47:45.472331,"
+    Customer Rating: 1/5
+    Customer Feedback: bad
+    Communication Summary: bad
+    ",NEGATIVE,0.9999,Database,0.6557,SCRUM-2
+2025-06-11T17:10:25.834727,"
+    Customer Rating: 5/5
+    Customer Feedback: he S/4HANA upgrade was seamless, with zero downtime. The team demonstrated exceptional planning and execution.
+    Communication Summary: The upgrade was communicated well in advance. Regular updates were provided during the process. Post-upgrade support was readily available. The entire experience was smooth.
+    ",POSITIVE,0.0008,Infrastructure,0.4047,N/A
+2025-06-11T17:10:59.294675,"
+    Customer Rating: 3/5
+    Customer Feedback: Database replication lag increased post-maintenance. While resolved, it impacted our reporting timelines.
+    Communication Summary: We observed delays in data replication. Support analyzed the logs and adjusted configurations. The lag reduced, but initial delays affected our operations.
+    ",NEUTRAL,0.6988,Database,0.9502,N/A
+2025-06-11T17:11:33.131033,"
+    Customer Rating: 2/5
+    Customer Feedback: The recent network reconfiguration led to intermittent connectivity issues. A rollback was necessary.
+    Communication Summary: Post-reconfiguration, users reported connectivity drops. Support attempted fixes, but issues persisted. A rollback was initiated, restoring stability. Future changes should be better tested
+    ",NEGATIVE,0.8477,Infrastructure,0.5358,SCRUM-3
