@@ -14,7 +14,7 @@ JIRA_SERVER = "https://hof-university.atlassian.net"
 JIRA_EMAIL = "kpaul@hof-university.de"
 JIRA_API_TOKEN = os.getenv("JIRA_API_TOKEN")
 JIRA_PROJECT_KEY = "SCRUM"
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
 
 # ===== INITIALIZE MODELS =====
 
