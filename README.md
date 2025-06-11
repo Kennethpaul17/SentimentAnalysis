@@ -52,11 +52,10 @@ streamlit run Enhanced_Streamlit_dashboard.py
 
 **Kenneth Paul**  
 MBA – Hochschule Hof, Germany  
-Project within SAP Enterprise Cloud Services
 
 ## 📄 License
 
-_This project is part of academic research and adheres to SAP NDA policies._
+_This project is part of academic research.
 EOF
 
 
