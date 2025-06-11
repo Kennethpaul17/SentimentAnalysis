@@ -20,4 +20,5 @@ This project uses AI-powered sentiment analysis to optimize service operations b
 ## How to Run
 
 ```bash
-streamlit run Sentiment_Analysis.py.HuggingFace
+python3 Sentiment_Analysis.HuggingFace.py
+streamlit run Enhanced_Streamlit_dashboard.py
