@@ -17,7 +17,7 @@ This project uses AI-powered sentiment analysis to optimize service operations b
 - JIRA API, Slack Webhook
 - GitHub for version control
 
-## How to Run Transformers Model
+## How to Run Transformers Model and the Reporting Tool StreamLit
 
 ```bash
 python3 Sentiment_Analysis.HuggingFace.py
